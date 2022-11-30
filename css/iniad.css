@@ -34,3 +34,15 @@ h3 {
   color: #cc0000;
   font-size: 30px;
 }
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.image{
+  width: 30%;
+  margin-left: 500px;
+  margin-right: 10px;
+  display: inline-block;
+}
