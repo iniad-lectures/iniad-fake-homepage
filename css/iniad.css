@@ -1,6 +1,9 @@
 body {
   background-color: #794c13;
   color: #FE4261;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  line-height: 1.9rem;
 }
 
 h1 {
