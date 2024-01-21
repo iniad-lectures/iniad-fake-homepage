@@ -34,3 +34,12 @@ h3 {
   color: #cc0000;
   font-size: 30px;
 }
+
+#header{
+  padding: 10px 20px 10px 20px;
+  background-color: #17194c;
+}
+
+#header img{
+  height: 40px;
+}
