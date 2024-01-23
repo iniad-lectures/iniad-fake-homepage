@@ -47,3 +47,6 @@ h3 {
 #campusimg img{
   height: 450px;
 }
+
+#conceptimg img { width: 100%; }
+#coursesimg img { width: 100%; }
