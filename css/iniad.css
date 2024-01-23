@@ -4,8 +4,17 @@ body {
 }
 
 h1 {
-  font-size: 24px;
-  text-align: center;
+  border-bottom: solid 3px #ffff;
+  position: relative;
+}
+
+h1:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  border-bottom: solid 3px #1E90FF;
+  bottom: -3px;
+  width: 20%;
 }
 
 h2 {
