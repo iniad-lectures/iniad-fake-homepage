@@ -4,6 +4,7 @@ body {
 }
 
 h1 {
+  font-size: 28px;
   border-bottom: solid 3px #F4F4F4;
   position: relative;
 }
@@ -41,8 +42,8 @@ h3 {
 .time {
   font-weight: bold;
   color: #333333;
-  font-size: 30px;
-}
+  font-size: 18px;
+} 
 
 #header{
   padding: 10px 20px 10px 20px;
